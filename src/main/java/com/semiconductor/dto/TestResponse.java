@@ -7,7 +7,6 @@ public class TestResponse {
     
     private String testId;
     private String status;
-	private String illegal;
     
     public TestResponse() {}
     
